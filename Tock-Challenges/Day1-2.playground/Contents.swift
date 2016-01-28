@@ -3,3 +3,6 @@
 import Cocoa
 
 var str = "Hello, playground"
+
+let input = String[":7452gwgfbgbsgyubw4gyuibegriub2uiebqrjbfkjb:-)"]
+
